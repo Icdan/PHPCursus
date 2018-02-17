@@ -1,11 +1,19 @@
-<center>
 <?php
-    $row = 15;
-
-    for($i = 0; $i < $row; $i++) {
-        for ($j = 0; $j < $i; $j++) {
-            echo "*";
-        }
-        echo "<br>";
-    }
+echo "<table>
+            <tr>
+                <td>De spartelkuikens</td>
+                <td>25</td>
+            </tr>
+            <tr>
+                <td>De spartelkuikens</td>
+                <td>25</td>
+            </tr><tr>
+                <td>De spartelkuikens</td>
+                <td>25</td>
+            </tr><tr>
+                <td>De spartelkuikens</td>
+                <td>25</td>
+            </tr>
+        </table>"
+//https://d30y9cdsu7xlg0.cloudfront.net/png/684-200.png
 ?>
